@@ -1,0 +1,6 @@
+framework module Pods_DPAPI_Tests {
+  umbrella header "Pods-DPAPI_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

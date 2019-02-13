@@ -1,0 +1,6 @@
+framework module DPAPI {
+  umbrella header "DPAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}

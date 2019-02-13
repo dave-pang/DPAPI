@@ -1,5 +1,4 @@
 import XCTest
-import DPAPI
 
 class Tests: XCTestCase {
     

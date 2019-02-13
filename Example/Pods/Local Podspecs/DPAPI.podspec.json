@@ -1,0 +1,31 @@
+{
+  "name": "DPAPI",
+  "version": "0.1.0",
+  "summary": "An Alamofire wrapper for easy API creation.",
+  "description": "API is a wrapper for the Alamofire framework. API allows for easy API creation within one's app, so that time when can be saved.",
+  "homepage": "https://github.com/dave-pang/DPAPI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dave.pang": "yainoma00@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dave-pang/DPAPI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "DPAPI/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+
+    ],
+    "Alamofire": [
+
+    ]
+  }
+}
