@@ -1,6 +1,6 @@
 PODS:
   - Alamofire (4.8.1)
-  - DPAPI (0.1.0):
+  - DPAPI (0.2.0):
     - Alamofire
     - RxSwift
   - FBSnapshotTestCase (2.1.4):
@@ -35,7 +35,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
-  DPAPI: 6ccc500f2b44f7a2df061216d6c4c03dd760779b
+  DPAPI: ba49b1f0dbeb112e9a48fe266aa3f5c63c90fa01
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   RxAtomic: f8d6adc1ccb87a767811269e4875887bc74dbf19
   RxCocoa: 2f35a76bf8887872e28a1914112395b11b8e0e64

@@ -1,6 +1,6 @@
 {
   "name": "DPAPI",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "An Alamofire wrapper for easy API creation.",
   "description": "API is a wrapper for the Alamofire framework. API allows for easy API creation within one's app, so that time when can be saved.",
   "homepage": "https://github.com/dave-pang/DPAPI",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/dave-pang/DPAPI.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "12.0"
