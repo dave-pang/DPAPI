@@ -28,7 +28,7 @@ API is a wrapper for the Alamofire framework. API allows for easy API creation w
   s.source           = { :git => 'https://github.com/dave-pang/DPAPI.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   
-  s.source_files = 'DPAPI/Classes/**/*'
+  s.source_files = 'Pod/Classes/**/*'
 
   s.ios.deployment_target = '10.0'
   s.swift_version = '4.2'
