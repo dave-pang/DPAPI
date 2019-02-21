@@ -15,7 +15,7 @@
     "git": "https://github.com/dave-pang/DPAPI.git",
     "tag": "0.9.2"
   },
-  "source_files": "DPAPI/Classes/**/*",
+  "source_files": "Pod/Classes/**/*",
   "platforms": {
     "ios": "10.0"
   },
