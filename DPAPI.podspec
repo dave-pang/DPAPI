@@ -32,7 +32,7 @@ API is a wrapper for the Alamofire framework. API allows for easy API creation w
 
   s.ios.deployment_target = '10.0'
   s.swift_version = '4.2'
-  s.source_files = 'Pod/Classes/**/*'
+  
   # s.resource_bundles = {
   #   'DPAPI' => ['DPAPI/Assets/*.png']
   # }
