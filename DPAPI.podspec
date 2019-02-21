@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DPAPI'
-  s.version          = '0.2.0'
+  s.version          = '0.9.0'
   s.summary          = 'An Alamofire wrapper for easy API creation.'
 
 # This description is used to generate tags and improve search results.
@@ -27,8 +27,10 @@ API is a wrapper for the Alamofire framework. API allows for easy API creation w
   s.author           = { 'dave.pang' => 'yainoma00@gmail.com' }
   s.source           = { :git => 'https://github.com/dave-pang/DPAPI.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  
+  s.source_files = 'DPAPI/Classes/**/*'
 
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '10.0'
   s.swift_version = '4.2'
   s.source_files = 'DPAPI/Classes/**/*'
   # s.resource_bundles = {

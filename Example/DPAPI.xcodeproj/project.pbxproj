@@ -44,7 +44,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		BC9F0051DCB60BA733359923 /* Pods-DPAPI_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DPAPI_Example.release.xcconfig"; path = "Target Support Files/Pods-DPAPI_Example/Pods-DPAPI_Example.release.xcconfig"; sourceTree = "<group>"; };
 		BDCDA0C538F53C9D6D824248 /* Pods-DPAPI_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DPAPI_Tests.debug.xcconfig"; path = "Target Support Files/Pods-DPAPI_Tests/Pods-DPAPI_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C71D80D81F4C1BE6F5EB125E /* DPAPI.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DPAPI.podspec; path = ../DPAPI.podspec; sourceTree = "<group>"; };
+		C71D80D81F4C1BE6F5EB125E /* DPAPI.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DPAPI.podspec; path = ../DPAPI.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E9CF2829EE41659804C0D638 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		EA1F447B4C50ABEB5082B761 /* Pods_DPAPI_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DPAPI_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
