@@ -31,8 +31,8 @@ Pod::Spec.new do |s|
     s.source_files = 'Pod/Classes/**/*'
     
     s.ios.deployment_target = '10.0'
-    s.swift_version = '4.2'
-    
+#    s.swift_version = '4.2'
+
     #s.resource_bundles = {
     #    'DPAPI' => ['DPAPI/Assets/*.png']
     #}
