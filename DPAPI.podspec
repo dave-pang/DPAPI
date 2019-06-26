@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'DPAPI'
-    s.version          = '0.9.6'
+    s.version          = '0.9.7'
     s.summary          = 'An Alamofire wrapper for easy API creation.'
     
     # This description is used to generate tags and improve search results.
