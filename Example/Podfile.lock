@@ -1,8 +1,7 @@
 PODS:
   - Alamofire (4.8.1)
-  - DPAPI (0.9.6):
+  - DPAPI (0.9.7):
     - Alamofire
-    - RxCocoa
     - RxSwift
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
@@ -10,8 +9,6 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - RxAtomic (4.4.1)
-  - RxCocoa (4.4.1):
-    - RxSwift (~> 4.0)
   - RxSwift (4.4.1):
     - RxAtomic (~> 4.4)
 
@@ -19,7 +16,6 @@ DEPENDENCIES:
   - Alamofire
   - DPAPI (from `../`)
   - FBSnapshotTestCase (~> 2.1.4)
-  - RxCocoa
   - RxSwift
 
 SPEC REPOS:
@@ -27,7 +23,6 @@ SPEC REPOS:
     - Alamofire
     - FBSnapshotTestCase
     - RxAtomic
-    - RxCocoa
     - RxSwift
 
 EXTERNAL SOURCES:
@@ -36,12 +31,11 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
-  DPAPI: ec504edfcde81b11d9b1f30c1875ab0966d9d59c
+  DPAPI: cd1a4c8bffc3f1463fa26700bb72cdb78fc728a2
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   RxAtomic: f8d6adc1ccb87a767811269e4875887bc74dbf19
-  RxCocoa: 2f35a76bf8887872e28a1914112395b11b8e0e64
   RxSwift: 92fcf68dfef21f3e2ab1965363d9e7b3d787597e
 
-PODFILE CHECKSUM: ec7b721d8874df9de42dc1198fd45d8f7ea4384b
+PODFILE CHECKSUM: e71482c9d61f43186b6cd6624ebe6cf68e2643e4
 
 COCOAPODS: 1.7.2

@@ -6,7 +6,7 @@ target 'DPAPI_Example' do
   
   pod 'Alamofire'
   pod 'RxSwift'
-  pod 'RxCocoa'
+#  pod 'RxCocoa'
 
   target 'DPAPI_Tests' do
     inherit! :search_paths
