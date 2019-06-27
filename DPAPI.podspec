@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'DPAPI'
-    s.version          = '0.9.7'
+    s.version          = '0.9.71'
     s.summary          = 'An Alamofire wrapper for easy API creation.'
     
     # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
     
     s.source_files = 'Pod/Classes/**/*'
     
-    s.ios.deployment_target = '10.0'
+    s.ios.deployment_target = '12.0'
 #    s.swift_version = '4.2'
 
     #s.resource_bundles = {
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
     
     # s.public_header_files = 'Pod/Classes/**/*.h'
     # s.frameworks = 'UIKit', 'MapKit'
-    s.dependency 'RxSwift'
+    s.dependency 'RxSwift',   '~> 5.0.0'
 #    s.dependency 'RxCocoa'
-    s.dependency 'Alamofire'
+    s.dependency 'Alamofire',   '~> 4.8.0'
 end

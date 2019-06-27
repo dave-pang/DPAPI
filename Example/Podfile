@@ -4,9 +4,8 @@ platform :ios, '12.0'
 target 'DPAPI_Example' do
   pod 'DPAPI', :path => '../'
   
-  pod 'Alamofire'
-  pod 'RxSwift'
-#  pod 'RxCocoa'
+#  pod 'Alamofire'
+#  pod 'RxSwift'
 
   target 'DPAPI_Tests' do
     inherit! :search_paths
