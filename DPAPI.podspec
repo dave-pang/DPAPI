@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'DPAPI'
-    s.version          = '0.9.71'
+    s.version          = '0.9.711'
     s.summary          = 'An Alamofire wrapper for easy API creation.'
     
     # This description is used to generate tags and improve search results.
@@ -42,4 +42,7 @@ Pod::Spec.new do |s|
     s.dependency 'RxSwift',   '~> 5.0.0'
 #    s.dependency 'RxCocoa'
     s.dependency 'Alamofire',   '~> 4.8.0'
+s.dependency 'GoogleMaps'
+    
+    s.static_framework      = true
 end
